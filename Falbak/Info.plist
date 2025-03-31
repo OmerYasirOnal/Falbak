@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Kahve falı veya el falı için fotoğraf çekmek amacıyla kameraya erişim izni istiyoruz.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Kahve falı veya el falı için fotoğraf seçmek amacıyla fotoğraf kitaplığınıza erişim izni istiyoruz.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist> 
