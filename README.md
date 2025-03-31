@@ -21,7 +21,7 @@ Falbak, yapay zeka destekli bir iOS fal uygulamasıdır. Kullanıcılar farklı 
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/username/Falbak.git
+git clone https://github.com/OmerYasirOnal/Falbak.git
 ```
 
 2. Xcode'da Falbak.xcodeproj dosyasını açın.
@@ -52,4 +52,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 Ömer Yasir Önal - [@omeryasironal](https://twitter.com/omeryasironal)
 
-Proje Linki: [https://github.com/username/Falbak](https://github.com/username/Falbak) 
+Proje Linki: [https://github.com/OmerYasirOnal/Falbak](https://github.com/OmerYasirOnal/Falbak) 
