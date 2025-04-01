@@ -4,7 +4,7 @@ import SwiftUI
 class AIService {
     // OpenRouter API endpoint
     private let apiEndpoint = "https://openrouter.ai/api/v1/chat/completions"
-    private let apiKey = "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"
+    private let apiKey = "your-api"
     private let modelName = "google/gemini-2.5-pro-exp-03-25:free"
     
     func getFortuneTelling(type: FortuneTellingType, prompt: String, image: UIImage? = nil) async throws -> String {
