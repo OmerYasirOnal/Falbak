@@ -2,14 +2,14 @@
 
 **Repository:** https://github.com/OmerYasirOnal/Falbak
 **Branch:** main
-**Analyzed:** 10/27/2025, 3:30:14 PM
+**Analyzed:** 10/27/2025, 3:48:08 PM
 
 ## Tech Stack
-- **Language:** Unknown
+- **Language:** Swift
+- **Framework:** iOS
+- **Runtime:** Xcode
 
-
-
-- **Other:** 
+- **Other:** Xcode Project
 
 ## Package Manager
 Not detected
