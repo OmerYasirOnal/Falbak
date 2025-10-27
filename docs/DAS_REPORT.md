@@ -1,12 +1,12 @@
 # DAS Validation Report
 
-## Overall Score: 60% ⚠️
+## Overall Score: 20% ⚠️
 
-**Recommendation:** NEEDS-CHANGES
+**Recommendation:** REJECT
 
 ## Metrics Breakdown
 
-### RefCoverage: 100%
+### RefCoverage: 0%
 - Total References: 0
 - Found: 0
 - Missing: 0
@@ -28,5 +28,5 @@
 
 ## Formula
 DAS = 0.4 × RefCoverage + 0.4 × Consistency + 0.2 × SpotCheck
-DAS = 0.4 × 100 + 0.4 × 50 + 0.2 × 0
-DAS = 60%
+DAS = 0.4 × 0 + 0.4 × 50 + 0.2 × 0
+DAS = 20%
